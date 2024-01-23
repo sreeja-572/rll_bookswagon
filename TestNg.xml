@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Cucumber suite">
+	<listeners>
+		<listener class-name="com.BooksWagon.Utilities.Itestlistener"></listener>
+		<listener class-name="com.BooksWagon.Utilities.Transformation"></listener>
+	</listeners>
+    <test name="Cucumber test">
+        <classes>
+            <class name="com.BooksWagon.Runner.TestRunner3" />
+        </classes>
+    </test>
+</suite>

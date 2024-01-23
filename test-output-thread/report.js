@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"1f7d35f5-d862-48a1-ae1a-1fd55d59f908","feature":"Testing RequestBook Functionality","scenario":"To test Request a Book in BooksWagon Website","start":1706033021112,"group":1,"content":"","tags":"","end":1706033098870,"className":"failed"},{"id":"02fbbf10-044b-49f8-a7b8-351ce5ad4906","feature":"Testing RequestBook Functionality","scenario":"To test Request a Book in BooksWagon Website","start":1706033098901,"group":1,"content":"","tags":"","end":1706033197678,"className":"failed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
